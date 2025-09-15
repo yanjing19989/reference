@@ -38,6 +38,7 @@ Quick Reference
 
 这是一份为中文开发者整理的技术栈速查清单，基于英文版 [Reference](https://github.com/Randy8080/reference) 翻译扩展而来，新增了更多实用内容，旨在提升查阅效率与使用体验。欢迎分享你的清单，我会尽量搬运实现；如发现内容不妥，也可通过提交 [PR](https://github.com/jaywcjlove/reference/blob/main/CONTRIBUTING.md) 进行修复或完善。项目持续更新，欢迎参与贡献！
 
+<!--rehype:ignore:start-->
 ## 赞助支持
 <!--rehype:class=home-title-reset-->
 
@@ -91,6 +92,7 @@ Quick Reference
     </a>
   </p>
 </div>
+<!--rehype:ignore:end-->
 
 ## 正在建设中...
 
@@ -373,6 +375,8 @@ Quick Reference
 [时区列表](./docs/time-zones.md)<!--rehype:style=background: rgb(16 185 129);-->
 [常见端口对照](./docs/ports.md)<!--rehype:style=background: rgb(16 185 129);-->
 <!--rehype:class=home-card-->
+
+<!--rehype:ignore:start-->
 
 ## 看到缺少什么了吗？
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;padding-top:4rem;&class=home-title-reset-->
@@ -725,6 +729,8 @@ Quick Reference
 如果你有资源，可以很方便地 [部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这一过程非常简单。只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支的代码到你的静态服务即可。
 
 你还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版，或者直接一键部署到 [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/jaywcjlove/reference)。
+
+<!--rehype:ignore:end-->
 
 ## 其它资源
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
