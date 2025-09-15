@@ -12,7 +12,7 @@
     "postinstall": "npm run cpy",
     "build": "refs-cli && npm run cpy",
     "start": "npm run cpy && refs-cli --watch",
-    "cpy": "cpy 'appicon/*.png' dist/appicon",
+    "cpy": "cpy 'icons/*' dist/icons",
     "prettier": "prettier --write '**/*.{mjs,css,json,prettierrc,lintstagedrc}'",
     "markdownlint": "npx markdownlint-cli --fix ./docs/*.md"
   },
